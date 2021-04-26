@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋
+
+#### 👨‍💻 Working with microservices (Python ❤️ Nameko) at [Sensedia](https://sensedia.com)
+#### 🌱 Learning Kubernetes, Elixir/Phoenix, NextJS, Unity and more...
+#### 🧙‍♂️ Currently, I'm teaching Python for non-programmers friends
+
 
 <!--
 **igor-simoes/igor-simoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
