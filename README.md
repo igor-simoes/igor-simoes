@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-#### 👨‍💻 Working with microservices (Python ❤️ Nameko) at [Sensedia](https://sensedia.com)
-#### 🌱 Learning Kubernetes, Elixir/Phoenix, NextJS, Unity and more...
+#### 👨‍💻 Working with microservices (Python ❤️ [Nameko](https://github.com/nameko/nameko/)) at [Sensedia](https://sensedia.com)
+#### 🌱 Learning FastAPI, Kubernetes, Elixir/Phoenix, NextJS, Unity and more...
 #### 🧙‍♂️ Currently, I'm teaching Python for non-programmers friends
 
 
