@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 #### 👨‍💻 Working with microservices (Python ❤️ [Nameko](https://github.com/nameko/nameko/) and [FastAPI](https://fastapi.tiangolo.com)) at [Sensedia](https://sensedia.com)
-#### 🌱 Learning Kubernetes, Elixir/Phoenix, NextJS, Unity and more...
+#### 🌱 Learning Rust, Kubernetes, TypeScript, NextJS, Unity, Godot, and more...
 #### 🧙‍♂️ Currently, I'm teaching Python and ReactJS for non-programmers friends
 
 
