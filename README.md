@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-#### 👨‍💻 Working with microservices (Python ❤️ [Nameko](https://github.com/nameko/nameko/) and [FastAPI](https://fastapi.tiangolo.com)) at [Sensedia](https://sensedia.com)
-#### 🌱 Learning Rust, Kubernetes, TypeScript, NextJS, Unity, Godot, and more...
+#### 👨‍💻 Working with microservices at [Magalu Cloud](https://magalu.cloud/)
+#### 🌱 Learning Rust, Go, Unity, Godot in my spare time
 #### 🧙‍♂️ Currently, I'm teaching Python and ReactJS for non-programmers friends
-
 
 <!--
 **igor-simoes/igor-simoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
